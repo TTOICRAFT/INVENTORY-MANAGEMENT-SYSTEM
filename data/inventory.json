@@ -1,0 +1,18 @@
+{
+  "CREAM": {
+    "name": "CREAM",
+    "description": "This cream is for people with soft and mild skin",
+    "price": 50.0,
+    "quantity": 12,
+    "total_cost": 0.0,
+    "total_purchased_qty": 0
+  },
+  "LAPTOP": {
+    "name": "LAPTOP",
+    "description": "This is an hp EliteBook laptop, very new and efficient.",
+    "price": 300.0,
+    "quantity": 4,
+    "total_cost": 600.0,
+    "total_purchased_qty": 2
+  }
+}

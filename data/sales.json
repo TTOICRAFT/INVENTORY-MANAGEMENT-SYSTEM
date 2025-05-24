@@ -1,0 +1,14 @@
+[
+  {
+    "product_name": "LAPTOP",
+    "quantity": 3,
+    "sale_price": 300.0,
+    "profit": 0.0
+  },
+  {
+    "product_name": "CREAM",
+    "quantity": 5,
+    "sale_price": 50.0,
+    "profit": 250.0
+  }
+]
