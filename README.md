@@ -65,6 +65,8 @@ rusty-store/
 │   └── purchases.json
 ├── test/
 │   ├── integration_test.rs
+├── .gitignore
+├── Cargo.lock
 ├── Cargo.toml
 └── README.md
 ```
